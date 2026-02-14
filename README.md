@@ -395,7 +395,7 @@ coverageThreshold: {
 
 ---
 
-## 11. Tecnologías Utilizadas
+## 9. Tecnologías Utilizadas
 
 - **Node.js** >= 18.0.0
 - **TypeScript** 5.3.3
@@ -405,7 +405,7 @@ coverageThreshold: {
 
 ---
 
-## 12. Autor
+## 10. Autor
 
 Frainer Encarnación (25-1775)
 
